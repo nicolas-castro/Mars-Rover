@@ -32,7 +32,7 @@ function turnLeft(rover){
     rover.direction = "S";
     break;
   }
-  console.log("Rover is facing: " + rover.direction + " [" + rover.y + "," + rover.x + "]");
+  console.log("Rover is facing : " + rover.direction + " [" + rover.y + "," + rover.x + "]");
 } 
 
 //console.log("Rover Direction: " + rover.direction);
